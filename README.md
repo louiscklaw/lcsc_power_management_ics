@@ -1,0 +1,2 @@
+# lcsc_power_management_ics
+lcsc_power_management_ics
